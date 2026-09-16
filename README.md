@@ -53,7 +53,7 @@ The data does not establish a single definitive cause of closure.
 
 ### Page 2 — Why Did Mutora Close?
 
-![Why Did Mutora Close Dashboard](Why%20did%20Mutora%20close-Mutora.png)
+![Why Did Mutora Close Dashboard](Why%20did%20Mutora%20Close-Mutora.png)
 
 
 ## Data Note
