@@ -45,6 +45,11 @@ The data does not establish a single definitive cause of closure.
 **Page 1:** Business Performance  
 **Page 2:** Why Did Mutora Close?
 
+##Screenshots
+![Business Performance Dashboard](Performance Overview-Mutora.png)
+![Why Did Mutora Close Dashboard](Why did Mutora close-Mutora.png)
+
+
 ## Data Note
 
 The analysis uses reconstructed historical bookkeeping records. Some records represent stock movements, balances, or accounting adjustments rather than direct sales transactions. Currency denomination is not consistently specified, so monetary values are shown without a currency symbol.
