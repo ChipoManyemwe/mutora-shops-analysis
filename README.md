@@ -45,9 +45,15 @@ The data does not establish a single definitive cause of closure.
 **Page 1:** Business Performance  
 **Page 2:** Why Did Mutora Close?
 
-##Screenshots
-![Business Performance Dashboard](Performance Overview-Mutora.png)
-![Why Did Mutora Close Dashboard](Why did Mutora close-Mutora.png)
+## Screenshots
+
+### Page 1 — Business Performance
+
+![Business Performance Dashboard](screenshots/Performance%20Overview-Mutora.png)
+
+### Page 2 — Why Did Mutora Close?
+
+![Why Did Mutora Close Dashboard](screenshots/Why%20did%20Mutora%20close-Mutora.png)
 
 
 ## Data Note
